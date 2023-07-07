@@ -3,5 +3,12 @@ body {
 	background-color: #ffffff;
 	font-family: 'Courier New', Courier, monospace;
 	line-height: 1.5rem;
-    min-width: 290px;
+	min-width: 290px;
+}
+
+#navbar {
+	position: fixed;
+	min-width: 290px;
+	width: 300px;
+	height: 100%;
 }
