@@ -56,3 +56,9 @@ header {
 	text-align: left;
 	margin: 0px;
 }
+
+section article {
+	color: #4d4e53;
+	margin: 15px;
+	font-size: 0.96em;
+}
