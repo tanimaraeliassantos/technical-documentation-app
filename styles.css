@@ -24,3 +24,10 @@ header {
 	font-size: 1.8em;
 	font-weight: thin;
 }
+
+#main-doc {
+	position: absolute;
+	margin-left: 360px;
+	padding: 20px;
+	margin-bottom: 110px;
+}
