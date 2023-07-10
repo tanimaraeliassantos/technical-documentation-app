@@ -65,3 +65,9 @@ section article {
 section li {
     margin: 15px 0px 0px 20px;
 }
+
+code {
+	display: block;
+	text-align: left;
+	
+}
