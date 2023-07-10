@@ -63,12 +63,15 @@ section article {
 	font-size: 0.96em;
 }
 section li {
-    margin: 15px 0px 0px 20px;
+	margin: 15px 0px 0px 20px;
 }
 
 code {
 	display: block;
 	text-align: left;
-	position: relative
+	position: relative;
 	line-height: 2;
+	background-color: #f7f7f7;
+	padding: 15px;
+	margin: 10px;
 }
