@@ -69,5 +69,6 @@ section li {
 code {
 	display: block;
 	text-align: left;
-	
+	position: relative
+	line-height: 2;
 }
