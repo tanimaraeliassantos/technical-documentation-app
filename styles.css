@@ -92,6 +92,10 @@ code {
 		z-index: 1;
 		border-bottom: 2px solid;
 	}
+	#navbar ul {
+		border: 1px solid;
+		height: 207px;
+	}
 	#main-doc {
 		position: relative;
 		margin-left: 0px;
